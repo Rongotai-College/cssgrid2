@@ -13,3 +13,9 @@ The user is shown a few examples of these cars to highlight the visual aspects a
 I enjoyed creating this and have added a second language option as a strong national feature.
 
 ### My design process
+
+* Layout:
+  * CSS Grid with options for multiple areas for image and text content 
+- Colour
+- Font(s)
+- Navigation (Site Map)
