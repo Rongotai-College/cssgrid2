@@ -3,7 +3,6 @@
 ### Members of the Dev Team
 - Eddie Petersen
 - Frank Sinatra
-- Justin Bieber
 
 ### About my project
 
