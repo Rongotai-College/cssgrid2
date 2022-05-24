@@ -19,6 +19,6 @@ I enjoyed creating this and have added a second language option as a strong nati
 * Colour:
   * The colours for the pages of the website are generated from the media like images and video.
   * They inform the colour design process.
-  * I use the [website]
+  * I use the [**website**](http://www.colorexplorer.com/imageimport.aspx)
 * Font(s):
 * Navigation (Site Map):
