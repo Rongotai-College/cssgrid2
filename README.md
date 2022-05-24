@@ -16,6 +16,9 @@ I enjoyed creating this and have added a second language option as a strong nati
 
 * Layout:
   * CSS Grid with options for multiple areas for image and text content 
-- Colour
-- Font(s)
-- Navigation (Site Map)
+* Colour:
+  * The colours for the pages of the website are generated from the media like images and video.
+  * They inform the colour design process.
+  * I use the [website]
+* Font(s):
+* Navigation (Site Map):
